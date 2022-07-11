@@ -1,0 +1,15 @@
+.preloader {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 50%;
+    bottom: 0;
+    background-color: rgb(255, 255, 255);
+    z-index: 1;
+}
+
+.preloader-status {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
